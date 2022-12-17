@@ -1,0 +1,3 @@
+C:/Users/fadya/CLionProjects/finalisa/cmake-build-debug/CMakeFiles/finalisa.dir
+C:/Users/fadya/CLionProjects/finalisa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fadya/CLionProjects/finalisa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
